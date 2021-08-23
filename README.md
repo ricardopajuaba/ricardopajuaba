@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Ricardo-yoda" src="https://cdn.discordapp.com/attachments/862531460921294879/879156149453201428/GitHubGif.gif">
+<img align="center" alt="Ricardo-yoda" src="https://cdn.discordapp.com/attachments/862531460921294879/879158898005778512/GitHubGif.gif">
 </div>
 
 <a href="https://github.com/ricardopajuaba">
